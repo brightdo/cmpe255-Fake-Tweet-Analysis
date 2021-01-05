@@ -2,7 +2,7 @@ San Jose State University
 
 CMPE 255 - Data Mining
 
-##Project Description
+## Project Description
 This project is an attempt to create several classifiers to classify false tweets from real tweets.
 The python notebook create_tweet_data is used to create the dataset. 
 
@@ -37,7 +37,7 @@ Due to the 25MB file restriction in github, this dataset is only 5% of the true 
  Step 3: Run all of the cells to view the CNN implementation <br>
 
 ## Link to Dataset: 
-https://www.kaggle.com/fivethirtyeight/russian-troll-tweets
-https://www.kaggle.com/kazanova/sentiment140
+https://www.kaggle.com/fivethirtyeight/russian-troll-tweets <br>
+https://www.kaggle.com/kazanova/sentiment140 <br> 
 
 Please reachout to us for any questions or comments. Thank you!
