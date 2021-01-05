@@ -32,9 +32,9 @@ Amrita Kasaundhan - amrita.kasaundhan@sjsu.edu
 <p> In order to get a properly working demo, a sample dataset has been included in this repo. It is called <b>sample_dataset.csv</b>.
 Due to the 25MB file restriction in github, this dataset is only 5% of the true dataset, which contains over 3 million tuples.
 </p>
-### Step 1: Open the demo.ipynb file
-### Step 2: change the path to the sample dataset in the read_csv method
-### Step 3: Run all of the cells to view the CNN implementation
+ Step 1: Open the demo.ipynb file <br>
+ Step 2: change the path to the sample dataset in the read_csv method <br>
+ Step 3: Run all of the cells to view the CNN implementation <br>
 
 ## Link to Dataset: 
 https://www.kaggle.com/fivethirtyeight/russian-troll-tweets
