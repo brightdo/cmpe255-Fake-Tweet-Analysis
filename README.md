@@ -36,7 +36,7 @@ Due to the 25MB file restriction in github, this dataset is only 5% of the true 
 ### Step 2: change the path to the sample dataset in the read_csv method
 ### Step 3: Run all of the cells to view the CNN implementation
 
-Link to Dataset: 
+## Link to Dataset: 
 https://www.kaggle.com/fivethirtyeight/russian-troll-tweets
 https://www.kaggle.com/kazanova/sentiment140
 
