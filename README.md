@@ -28,7 +28,7 @@ Amrita Kasaundhan - amrita.kasaundhan@sjsu.edu
 <b>demo.ipynb</b>: Demo with sample dataset featuring CNN implementation
 
 
-##Steps to run the demo
+## Steps to run the demo
 <p> In order to get a properly working demo, a sample dataset has been included in this repo. It is called <b>sample_dataset.csv</b>.
 Due to the 25MB file restriction in github, this dataset is only 5% of the true dataset, which contains over 3 million tuples.
 </p>
