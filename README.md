@@ -10,11 +10,9 @@ The python notebook create_tweet_data is used to create the dataset.
 ## Authors
 Omri Levia - omri.levia@sjsu.edu
 
-Amir Radman - amirhossein.radman@sjsu.edu
+Simran Singh - simrandeep.singh02@sjsu.edu
 
-Sum Mohan Reddy - summohanreddy.mallannagari@sjsu.edu
-
-Amrita Kasaundhan - amrita.kasaundhan@sjsu.edu
+Do Hyeong Kim - dohyeong.kim@sjsu.edu
 
 
 ## file description
